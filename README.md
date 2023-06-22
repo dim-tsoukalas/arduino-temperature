@@ -7,7 +7,7 @@ In the image and video below you can see the results.
 ![IMG_20230622_163328](https://github.com/dim-tsoukalas/arduino-temperature/assets/64429662/35adf297-a7bc-41ca-a731-bfd7a98e2d15)
 
 
-![Connected at breadboard](https://github.com/dim-tsoukalas/arduino-temperature/assets/64429662/1e55bf31-9849-413f-9b47-0c2ff248d245)
+(https://github.com/dim-tsoukalas/arduino-temperature/assets/64429662/1e55bf31-9849-413f-9b47-0c2ff248d245
 
 ## Second Part
 After this trial I decided to make a product that is more capable and easy to transfer. So I got an old box and I measured the dimensions, I soldered the cables and I add them to the box. 
