@@ -7,11 +7,14 @@ In the image and video below you can see the results.
 ![IMG_20230622_163328](https://github.com/dim-tsoukalas/arduino-temperature/assets/64429662/35adf297-a7bc-41ca-a731-bfd7a98e2d15)
 
 
-https://github.com/dim-tsoukalas/arduino-temperature/assets/64429662/1e55bf31-9849-413f-9b47-0c2ff248d245
+https://github.com/dim-tsoukalas/arduino-temperature/assets/64429662/4cca35cb-5e01-4110-9802-c433aa8e4d46
+
 
 ## Second Part
 After this trial I decided to make a product that is more capable and easy to transfer. So I got an old box and I measured the dimensions, I soldered the cables and I add them to the box. 
 The result is below:
 
-https://github.com/dim-tsoukalas/arduino-temperature/assets/64429662/15b31ac9-b0e9-47ad-b33a-d6738bbe7093
+https://github.com/dim-tsoukalas/arduino-temperature/assets/64429662/eef3b6b5-2cbb-48d4-a414-8f440ecea93b
+
+
 
